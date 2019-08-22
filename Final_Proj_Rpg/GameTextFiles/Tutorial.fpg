@@ -1,0 +1,24 @@
+To check the area, enemies, items, or your inventory you type in the commands associated with what you wish to do.
+"inspect":
+Using inspect by itself will give you details about your current location. To check details about yourself, type "inspect self".
+To check details about an enemy, you would type "inspect 'enemy name'". For your inventory, you would type "inspect i".
+For items you would follow the same procedure as you do with enemies, substituting item name for enemy name.
+"get":
+Using the get command alone does nothing. You would use this command should you come across a room with items in it.
+Simply type "get 'item_name'" to pick up the item.
+"kill":
+Self explanatory. Use this in conjunction with an enemy name to attack the NPC. "kill 'npc_name'".
+"wear":
+You would use the wear command in conjunction with item names in your inventory to equip said items. "wear 'item_name'".
+"remove":
+Use this in conjunction with item names to un-equip them and return them to your inventory. "remove 'item_name'".
+"equipped":
+This will tell you which items you have equipped and is typed by itself.
+"go":
+This command is how you navigate the game world. Use this command in conjunction with exit names. "go 'exit_name'".
+"heal":
+This is the command you type to heal yourself during combat. You only need to type the single word by itself.
+"save":
+Self explanatory. This saves the game state.
+"quit":
+Again, no explanation needed. Use this command to quit your adventure.

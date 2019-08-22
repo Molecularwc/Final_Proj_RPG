@@ -1,0 +1,80 @@
+RoomName: The Ruins of a Castle
+Number: 1
+Desc: You stand in the ruins of a castle.
+Desc: All around you lies rubble. You can see
+Desc: what used to be a large entry way to the north.
+Desc: To the south lies a peaceful glen.
+Exit: South 2
+Exit: North 6
+RoomName: A peaceful Glen
+Number: 2
+Desc: The glen is serene and tranquil. A gentle breeze feels cool against your skin. 
+Desc: You feel like you could stand here forever...
+Desc: Behind you lies a castle in ruins.
+Desc: To your right is a gently worn foot path.
+Exit: North 1
+Exit: West 3
+RoomName: Entrance to a Dark Cave
+Number: 3
+Desc: The gently sloping plain rises sharply here as a hill rises to the west.
+Desc: There is a dark cave west of you with a clearly
+Desc: defined pathway leading up and inside.
+Desc: It looks dark in there.
+Exit: East 2
+Exit: West 4
+RoomName: Inside the Dark Cave
+Number: 4
+Desc: The walls here are covered in moss and trickling water.
+Desc: You can hear a slight rumbling further in.
+Desc: A smoky odor hangs in the air.
+Exit: East 3
+Exit: South 5
+RoomName: Deep in the Dark Cave
+Number: 5
+Desc: This cave leads further into the hillside.
+Desc: The light from the entrance barely cuts through the shadows.
+Exit: North 4
+RoomName: The ruined Arch Way
+Number: 6
+Desc: This large arch way once stood at the entrance to a castle or fortress
+Desc: of some sort. Large stones and rubble stand all around you. To
+Desc: the north stands what is left of a large courtyard.
+Exit: South 1
+Exit: North 7
+RoomName: The decaying Courtyard
+Number: 7
+Desc: This courtyard once served as an entry way to the ruined castle
+Desc: you see standing to the north. Stone and rubble lie everywhere.
+Desc: A tower looms above you to the east.
+Exit: South 6
+Exit: East 8
+RoomName: The Broken Tower
+Numer: 8
+Desc: The tower seems to reach up to the sky. Its shadow is cast long.
+Desc: Chunks of stone that once had been part of the walls lay about the ground,
+Desc: leaving rather large holes in various parts of the tower exterior.
+Desc: You can feel a dark presence coming from the tower above you. Should you
+Desc: enter, do so cautiously.
+Exit: North 9
+Exit: West 7
+RoomName: Inside the Tower Proper
+Number: 9
+Desc: Inside the tower the stairs spiral upwards to the top floors. Be mindful adventurer,
+Desc: there is no telling what dangers lie ahead.
+Exit: South 8
+Exit: Up 10
+RoomName: The Tower Landing
+Number: 10
+Desc: The staircase was long and treacherous getting to this landing. You can see another staircase
+Desc: ascending to yet another floor above you. You can hear faint chanting. It raises the hair on the
+Desc: back of your neck. Be wary!
+Exit: Down 9
+Exit: Up 11
+RoomName: The Sorceror's Workshop
+Number: 11
+Desc: You enter the sorceror's workshop! Around the room are various tables with potion bottles.
+Desc: The back wall is lined with dusty bookshelves filled with all manner of tomes. The dark presence 
+Desc: you felt earlier is overwhelming and causes you to fill with the feeling of dread. To the left is a window
+Desc: with what looks like a rope descending downward. How far down, you are not sure of...
+Exit: Down 10
+Exit: Out 7
