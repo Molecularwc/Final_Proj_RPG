@@ -1,8 +1,13 @@
-//Author: Richard Salvaty
-//Subject: CIT 130
-//Project: HW11.1
+/** 
+ *	@author: Richard Salvaty
+ *	Subject: CIT 130
+ *	Project: HW11.1
+ *
+ */
 
-//Main game class
+/**	
+ * Main game class
+ */
 public class Final_Proj_Rpg {
 	static Game_Logic gl = new Game_Logic();
 
@@ -17,6 +22,9 @@ public class Final_Proj_Rpg {
 
 	}
 
+	/**
+	 * runs the game loop
+	 */
 	public static void game_loop() {
 		gl.waitforCommand();
 	}
