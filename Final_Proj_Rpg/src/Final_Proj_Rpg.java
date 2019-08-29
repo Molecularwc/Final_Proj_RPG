@@ -1,7 +1,7 @@
 /** 
- *	@author: Richard Salvaty
+ *	@author: Molecular
  *	Subject: CIT 130
- *	Project: HW11.1 *
+ *	Project: HW11.1
  */
 
 /**	
