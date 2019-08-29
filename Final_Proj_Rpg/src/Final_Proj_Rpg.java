@@ -1,8 +1,7 @@
 /** 
  *	@author: Richard Salvaty
  *	Subject: CIT 130
- *	Project: HW11.1
- *
+ *	Project: HW11.1 *
  */
 
 /**	
