@@ -92,7 +92,7 @@ public class Game_Logic {
 			String menuChoice;
 			do {
 				System.out.println(
-						"What will you do? \nType (t)utorial for the guide, \n(n)ew to register for the first time, \nor (l)ast to recall your previous adventure.");
+						"What will you do? \nType (t)utorial for the guide, \n(n)ew to register for the first time, \nor (l)ast to recall your previous adventure, or e(x)it to quit the game.");
 				menuChoice = sc.nextLine();
 				switch (menuChoice.toLowerCase()) {
 					case "t" :
@@ -103,6 +103,9 @@ public class Game_Logic {
 						break;
 					case "l" :
 						Game_Objects.gsdi.loadPC(Game_Objects.pc, sc);
+						break;
+					case "x":
+						System.exit(0);
 						break;
 					default :
 						System.out.println(
